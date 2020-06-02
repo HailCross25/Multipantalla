@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Multipantalla</string>
+    <string name="tipocelular">celular</string>
+    <string name="vhorizontal">Horizontal</string>
+    <string name="vvertical">vertical</string>
+    <string name="valhorizontal">horizontal</string>
+    <string name="valvertical">vertical</string>
+    <string name="logotesoem">TESOEM</string>
+    <string name="logoisc">ISC</string>
+    <string name="tableta">Tableta</string>
+</resources>
